@@ -1,7 +1,7 @@
-Role Name
-=========
+OpenLDAP
+========
 
-A brief description of the role goes here.
+Install and configure OpenLDAP on your system.
 
 Requirements
 ------------
@@ -30,7 +30,7 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+[GPL-3.0-only](https://github.com/eseyman/ansible-role-openldap/blob/master/LICENSE).
 
 Author Information
 ------------------
